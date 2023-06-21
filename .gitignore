@@ -161,3 +161,17 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+**/.ipynb_checkpoints/*
+**/.virtual_documents/*
+assets/.METADATA/job_run.*
+assets/job_run
+assets/.METADATA/auto_ml.*
+assets/auto_ml
+assets/.METADATA/experiment.*
+assets/.METADATA/wml_experiment.*
+assets/experiment
+assets/.METADATA/wml_training_definition.*
+assets/wml_training_definition
+assets/.METADATA/wml_remote_training_system.*
+assets/wml_remote_training_system
+assets/federated_learning
